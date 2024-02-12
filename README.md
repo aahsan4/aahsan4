@@ -1,4 +1,4 @@
-                                                                        Java Developer
+                                                                    Java Developer
 <h1 align="center">Based in Atlanta, Georgia.</h1>
 
 
